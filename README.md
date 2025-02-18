@@ -1,4 +1,4 @@
-- 📍 @siterepos
+- 📂 [@siterepos](https://github.com/siterepos)
 - ℹ️ This account maintains repositories for client sites, apps, and projects
 
 <!---
