@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siterepos
+- 📍 @siterepos
 - 🏢 This account maintains repositories for client sites, apps, and projects
 
 <!---
